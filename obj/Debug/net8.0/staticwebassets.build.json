@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "yPew5SMlRiFGnMiJzDWw12EzZ/tjdMUttC4U27FTCWw=",
+  "Source": "sistem-informasi-produksi-backend",
+  "BasePath": "_content/sistem-informasi-produksi-backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "sistem-informasi-produksi-backend\\wwwroot",
+      "Source": "sistem-informasi-produksi-backend",
+      "ContentRoot": "C:\\Users\\HP\\Documents\\SEMESTER 5\\PROJECT PEMOGRAMAN\\Template Project Listrik\\sistem-informasi-produksi-backend\\wwwroot\\",
+      "BasePath": "_content/sistem-informasi-produksi-backend",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Project\\NEW REPOSITORY\\SISTEM INFORMASI PRODUKSI\\DEVELOPMENT\\sistem-informasi-produksi-backend\\wwwroot\\Uploads\\FILE_05bc052f-4fb0-4be8-887b-1fdcbbc28d6f_2024323124613.pdf",
+      "PackagePath": "staticwebassets\\Uploads\\FILE_05bc052f-4fb0-4be8-887b-1fdcbbc28d6f_2024323124613.pdf"
+    },
+    {
+      "Id": "D:\\Project\\NEW REPOSITORY\\SISTEM INFORMASI PRODUKSI\\DEVELOPMENT\\sistem-informasi-produksi-backend\\wwwroot\\Uploads\\FILE_2efbc620-9968-40f2-9916-f048903271d0_202432613496.pdf",
+      "PackagePath": "staticwebassets\\Uploads\\FILE_2efbc620-9968-40f2-9916-f048903271d0_202432613496.pdf"
+    },
+    {
+      "Id": "D:\\Project\\NEW REPOSITORY\\SISTEM INFORMASI PRODUKSI\\DEVELOPMENT\\sistem-informasi-produksi-backend\\wwwroot\\Uploads\\FILE_35956542-a2e3-4bb1-9d59-e7e4e18bb30f_202432516949.pdf",
+      "PackagePath": "staticwebassets\\Uploads\\FILE_35956542-a2e3-4bb1-9d59-e7e4e18bb30f_202432516949.pdf"
+    },
+    {
+      "Id": "D:\\Project\\NEW REPOSITORY\\SISTEM INFORMASI PRODUKSI\\DEVELOPMENT\\sistem-informasi-produksi-backend\\wwwroot\\Uploads\\FILE_3a025bc3-bb2c-4fd9-b7f9-47967e0fcbd0_2024327135243.png",
+      "PackagePath": "staticwebassets\\Uploads\\FILE_3a025bc3-bb2c-4fd9-b7f9-47967e0fcbd0_2024327135243.png"
+    },
+    {
+      "Id": "D:\\Project\\NEW REPOSITORY\\SISTEM INFORMASI PRODUKSI\\DEVELOPMENT\\sistem-informasi-produksi-backend\\wwwroot\\Uploads\\FILE_3a962298-57c7-4535-9bb1-8a42a46a8053_2024325111022.pdf",
+      "PackagePath": "staticwebassets\\Uploads\\FILE_3a962298-57c7-4535-9bb1-8a42a46a8053_2024325111022.pdf"
+    },
+    {
+      "Id": "D:\\Project\\NEW REPOSITORY\\SISTEM INFORMASI PRODUKSI\\DEVELOPMENT\\sistem-informasi-produksi-backend\\wwwroot\\Uploads\\FILE_87e7836b-5e9b-4fa9-bfe3-c2085de2fbbb_2024323124613.pdf",
+      "PackagePath": "staticwebassets\\Uploads\\FILE_87e7836b-5e9b-4fa9-bfe3-c2085de2fbbb_2024323124613.pdf"
+    },
+    {
+      "Id": "D:\\Project\\NEW REPOSITORY\\SISTEM INFORMASI PRODUKSI\\DEVELOPMENT\\sistem-informasi-produksi-backend\\wwwroot\\Uploads\\FILE_c1f6aa91-6204-4587-b3ff-efcc9e1fd184_202432715578.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\FILE_c1f6aa91-6204-4587-b3ff-efcc9e1fd184_202432715578.jpg"
+    },
+    {
+      "Id": "D:\\Project\\NEW REPOSITORY\\SISTEM INFORMASI PRODUKSI\\DEVELOPMENT\\sistem-informasi-produksi-backend\\wwwroot\\Uploads\\FILE_eb9ae590-eff3-4aa6-a3ef-ea92288041b9_2024325111022.pdf",
+      "PackagePath": "staticwebassets\\Uploads\\FILE_eb9ae590-eff3-4aa6-a3ef-ea92288041b9_2024325111022.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.sistem-informasi-produksi-backend.props",
+      "PackagePath": "build\\sistem-informasi-produksi-backend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.sistem-informasi-produksi-backend.props",
+      "PackagePath": "buildMultiTargeting\\sistem-informasi-produksi-backend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.sistem-informasi-produksi-backend.props",
+      "PackagePath": "buildTransitive\\sistem-informasi-produksi-backend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.sistem-informasi-produksi-backend.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

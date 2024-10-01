@@ -1,0 +1,994 @@
+[
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.MasterAlatMesinController",
+    "Method": "CreateAlatMesin",
+    "RelativePath": "api/MasterAlatMesin/CreateAlatMesin",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.MasterAlatMesinController",
+    "Method": "DetailAlatMesin",
+    "RelativePath": "api/MasterAlatMesin/DetailAlatMesin",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.MasterAlatMesinController",
+    "Method": "EditAlatMesin",
+    "RelativePath": "api/MasterAlatMesin/EditAlatMesin",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.MasterAlatMesinController",
+    "Method": "GetDataAlatMesin",
+    "RelativePath": "api/MasterAlatMesin/GetDataAlatMesin",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.MasterAlatMesinController",
+    "Method": "GetDataAlatMesinById",
+    "RelativePath": "api/MasterAlatMesin/GetDataAlatMesinById",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.MasterAlatMesinController",
+    "Method": "SetStatusAlatMesin",
+    "RelativePath": "api/MasterAlatMesin/SetStatusAlatMesin",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.MasterKomponenController",
+    "Method": "CreateKomponen",
+    "RelativePath": "api/MasterKomponen/CreateKomponen",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.MasterKomponenController",
+    "Method": "DetailKomponen",
+    "RelativePath": "api/MasterKomponen/DetailKomponen",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.MasterKomponenController",
+    "Method": "EditKomponen",
+    "RelativePath": "api/MasterKomponen/EditKomponen",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.MasterKomponenController",
+    "Method": "GetDataKomponen",
+    "RelativePath": "api/MasterKomponen/GetDataKomponen",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.MasterKomponenController",
+    "Method": "GetDataKomponenById",
+    "RelativePath": "api/MasterKomponen/GetDataKomponenById",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.MasterKomponenController",
+    "Method": "GetListKomponen",
+    "RelativePath": "api/MasterKomponen/GetListKomponen",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.MasterKomponenController",
+    "Method": "SetStatusKomponen",
+    "RelativePath": "api/MasterKomponen/SetStatusKomponen",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.MasterKursProsesController",
+    "Method": "CreateKursProses",
+    "RelativePath": "api/MasterKursProses/CreateKursProses",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.MasterKursProsesController",
+    "Method": "DetailKursProses",
+    "RelativePath": "api/MasterKursProses/DetailKursProses",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.MasterKursProsesController",
+    "Method": "GetDataKursProses",
+    "RelativePath": "api/MasterKursProses/GetDataKursProses",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.MasterKursProsesController",
+    "Method": "GetHargaLamaByProses",
+    "RelativePath": "api/MasterKursProses/GetHargaLamaByProses",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.MasterKursProsesController",
+    "Method": "GetRiwayatKursProses",
+    "RelativePath": "api/MasterKursProses/GetRiwayatKursProses",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.MasterOperatorController",
+    "Method": "CreateOperator",
+    "RelativePath": "api/MasterOperator/CreateOperator",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.MasterOperatorController",
+    "Method": "DetailOperator",
+    "RelativePath": "api/MasterOperator/DetailOperator",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.MasterOperatorController",
+    "Method": "EditOperator",
+    "RelativePath": "api/MasterOperator/EditOperator",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.MasterOperatorController",
+    "Method": "GetDataOperator",
+    "RelativePath": "api/MasterOperator/GetDataOperator",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.MasterOperatorController",
+    "Method": "GetDataOperatorById",
+    "RelativePath": "api/MasterOperator/GetDataOperatorById",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.MasterOperatorController",
+    "Method": "SetStatusOperator",
+    "RelativePath": "api/MasterOperator/SetStatusOperator",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.MasterPelangganController",
+    "Method": "CreatePelanggan",
+    "RelativePath": "api/MasterPelanggan/CreatePelanggan",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.MasterPelangganController",
+    "Method": "DetailPelanggan",
+    "RelativePath": "api/MasterPelanggan/DetailPelanggan",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.MasterPelangganController",
+    "Method": "EditPelanggan",
+    "RelativePath": "api/MasterPelanggan/EditPelanggan",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.MasterPelangganController",
+    "Method": "GetDataPelanggan",
+    "RelativePath": "api/MasterPelanggan/GetDataPelanggan",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.MasterPelangganController",
+    "Method": "GetDataPelangganById",
+    "RelativePath": "api/MasterPelanggan/GetDataPelangganById",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.MasterPelangganController",
+    "Method": "GetListPelanggan",
+    "RelativePath": "api/MasterPelanggan/GetListPelanggan",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.MasterPelangganController",
+    "Method": "SetStatusPelanggan",
+    "RelativePath": "api/MasterPelanggan/SetStatusPelanggan",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.MasterProdukController",
+    "Method": "CreateProduk",
+    "RelativePath": "api/MasterProduk/CreateProduk",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.MasterProdukController",
+    "Method": "DetailProduk",
+    "RelativePath": "api/MasterProduk/DetailProduk",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.MasterProdukController",
+    "Method": "EditProduk",
+    "RelativePath": "api/MasterProduk/EditProduk",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.MasterProdukController",
+    "Method": "GetDataProduk",
+    "RelativePath": "api/MasterProduk/GetDataProduk",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.MasterProdukController",
+    "Method": "GetDataProdukById",
+    "RelativePath": "api/MasterProduk/GetDataProdukById",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.MasterProdukController",
+    "Method": "GetListProduk",
+    "RelativePath": "api/MasterProduk/GetListProduk",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.MasterProdukController",
+    "Method": "SetStatusProduk",
+    "RelativePath": "api/MasterProduk/SetStatusProduk",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.MasterProsesController",
+    "Method": "CreateProses",
+    "RelativePath": "api/MasterProses/CreateProses",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.MasterProsesController",
+    "Method": "DetailProses",
+    "RelativePath": "api/MasterProses/DetailProses",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.MasterProsesController",
+    "Method": "EditProses",
+    "RelativePath": "api/MasterProses/EditProses",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.MasterProsesController",
+    "Method": "GetDataProses",
+    "RelativePath": "api/MasterProses/GetDataProses",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.MasterProsesController",
+    "Method": "GetDataProsesById",
+    "RelativePath": "api/MasterProses/GetDataProsesById",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.MasterProsesController",
+    "Method": "GetListProses",
+    "RelativePath": "api/MasterProses/GetListProses",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.MasterProsesController",
+    "Method": "SetStatusProses",
+    "RelativePath": "api/MasterProses/SetStatusProses",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.MasterRuanganController",
+    "Method": "CreateRuangan",
+    "RelativePath": "api/MasterRuangan/CreateRuangan",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.MasterRuanganController",
+    "Method": "EditRuangan",
+    "RelativePath": "api/MasterRuangan/EditRuangan",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.MasterRuanganController",
+    "Method": "GetDataRuangan",
+    "RelativePath": "api/MasterRuangan/GetDataRuangan",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.MasterRuanganController",
+    "Method": "GetDataRuanganById",
+    "RelativePath": "api/MasterRuangan/GetDataRuanganById",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.MasterRuanganController",
+    "Method": "GetListRuangan",
+    "RelativePath": "api/MasterRuangan/GetListRuangan",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.MasterRuanganController",
+    "Method": "SetStatusRuangan",
+    "RelativePath": "api/MasterRuangan/SetStatusRuangan",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.PermintaanPelangganController",
+    "Method": "CreatePermintaanPelanggan",
+    "RelativePath": "api/PermintaanPelanggan/CreatePermintaanPelanggan",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.PermintaanPelangganController",
+    "Method": "CreatePermintaanPelangganProduk",
+    "RelativePath": "api/PermintaanPelanggan/CreatePermintaanPelangganProduk",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.PermintaanPelangganController",
+    "Method": "GetDataPermintaanPelanggan",
+    "RelativePath": "api/PermintaanPelanggan/GetDataPermintaanPelanggan",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.UploadController",
+    "Method": "UploadFile",
+    "RelativePath": "api/Upload/UploadFile",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.UtilitiesController",
+    "Method": "GetListKabupaten",
+    "RelativePath": "api/Utilities/GetListKabupaten",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.UtilitiesController",
+    "Method": "GetListKaryawan",
+    "RelativePath": "api/Utilities/GetListKaryawan",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.UtilitiesController",
+    "Method": "GetListKecamatan",
+    "RelativePath": "api/Utilities/GetListKecamatan",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.UtilitiesController",
+    "Method": "GetListKelurahan",
+    "RelativePath": "api/Utilities/GetListKelurahan",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.UtilitiesController",
+    "Method": "GetListMenu",
+    "RelativePath": "api/Utilities/GetListMenu",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.UtilitiesController",
+    "Method": "GetListProvinsi",
+    "RelativePath": "api/Utilities/GetListProvinsi",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_informasi_produksi_backend.Controllers.UtilitiesController",
+    "Method": "Login",
+    "RelativePath": "api/Utilities/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
